@@ -12,11 +12,11 @@ end
 
 puts fourth_student_by_index
 
-def student_names
+def last_student_by_index
   student_names[5]
 end
 
-puts "student_names[5]"
+puts last_student_by_index
 
 def student_names
   student_names.first
