@@ -18,7 +18,7 @@ end
 
 puts last_student_by_index
 
-def student_names
+def first_student_by_method
   student_names.first
 end
 
