@@ -22,13 +22,13 @@ def first_student_by_method
   student_names.first
 end
 
-puts "student_names.first"
+puts first_student_by_method
 
-def student_names
+def last_student_by_method
   student_names.last
 end
 
-puts "student_names.last"
+puts last_student_by_method
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
