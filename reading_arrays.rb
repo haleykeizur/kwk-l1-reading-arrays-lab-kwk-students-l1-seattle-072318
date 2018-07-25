@@ -6,11 +6,11 @@ end
 
 puts first_student_by_index
 
-def student_names
+def fourth_student_by_index
   student_names[3]
 end
 
-puts "student_names[3]"
+puts fourth_student_by_index
 
 def student_names
   student_names[5]
