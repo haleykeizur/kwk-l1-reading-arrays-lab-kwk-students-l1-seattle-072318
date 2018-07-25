@@ -1,10 +1,10 @@
 student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
 
-def student_names
+def first_student_by_index
   student_names[0]
 end
 
-puts "student_names[0]"
+puts first_student_by_index
 
 def student_names
   student_names[3]
