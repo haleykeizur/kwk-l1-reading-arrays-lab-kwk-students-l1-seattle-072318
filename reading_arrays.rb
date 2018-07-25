@@ -1,7 +1,7 @@
-STUDENT_NAMES = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
+student_names = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
 
 def first_student_by_index
-  student_names
+  student_names[0]
 end
 
 puts first_student_by_index
